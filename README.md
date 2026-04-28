@@ -10,8 +10,6 @@
   - Discount impact assessment  
   - Interactive BI dashboard
 
-- Goal: To generate insights on revenue performance, customer behaviour, product trends, and regional distribution.
-
 ---
 
 ## Key Insights
